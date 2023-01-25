@@ -8,7 +8,7 @@
 
 Описание лабораторных работ:
 
-## Лабораторная работа №1: 
+## [Лабораторная работа №1](https://github.com/RomanKosovets/Algorithms_Data_Structures_1sem/blob/main/1sem_Description/1%20lab.pdf): 
   1. [(A+B)]()
   2. [(A+B*B)]()
   3. [Черепашка]()
