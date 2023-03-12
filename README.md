@@ -11,7 +11,7 @@
   2. (A+B*B)
   3. Черепашка
   4. Простая Сортировка
-  5. Знакомство с жителями Сортленда]
+  5. Знакомство с жителями Сортленда
 
 ## [Лабораторная работа №2](https://github.com/RomanKosovets/Algorithms_Data_Structures_1sem/blob/main/1sem_Description/2%20lab.pdf):
   1. Сортировка
