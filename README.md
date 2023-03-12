@@ -15,7 +15,7 @@
 
 ## [Лабораторная работа №2](https://github.com/RomanKosovets/Algorithms_Data_Structures_1sem/blob/main/1sem_Description/2%20lab.pdf):
   1. Сортировка
-  2. Соревновая по бегу
+  2. ~~Соревновая по бегу~~
   3. Число инверсий
   4. Анти-QuickSort
   5. K-тая порядковая статистика
