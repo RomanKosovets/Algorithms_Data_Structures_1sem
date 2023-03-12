@@ -38,7 +38,7 @@
   1. Set
   2. Map
   3. LinkedMap
-  4. MultiMap
+  4. ~~MultiMap~~
 
 ## [Лабораторная работа №6](https://github.com/RomanKosovets/Algorithms_Data_Structures_1sem/blob/main/1sem_Description/6%20lab.pdf):
   1. Высота дерева
